@@ -64,8 +64,8 @@ nav a:hover {
 
 #banner {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   color: #fff;
-  background-color:
+  background-color: #333;
+  padding
